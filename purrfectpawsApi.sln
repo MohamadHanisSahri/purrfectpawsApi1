@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purrfectpawsApi", "purrfectpawsApi\purrfectpawsApi.csproj", "{C9DB143B-3FB3-46C3-A47C-FCDFA23271E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurrfectpawsApi", "PurrfectpawsApi\PurrfectpawsApi.csproj", "{06F8D0AF-DCA9-42FB-8D8F-1FFC10BDD5F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C9DB143B-3FB3-46C3-A47C-FCDFA23271E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C9DB143B-3FB3-46C3-A47C-FCDFA23271E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C9DB143B-3FB3-46C3-A47C-FCDFA23271E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C9DB143B-3FB3-46C3-A47C-FCDFA23271E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F8D0AF-DCA9-42FB-8D8F-1FFC10BDD5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F8D0AF-DCA9-42FB-8D8F-1FFC10BDD5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F8D0AF-DCA9-42FB-8D8F-1FFC10BDD5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F8D0AF-DCA9-42FB-8D8F-1FFC10BDD5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FA2104D2-5302-44DC-8E3C-E697D032ED3A}
+		SolutionGuid = {D04587C2-A01D-4970-931C-51DD51D8D7ED}
 	EndGlobalSection
 EndGlobal
